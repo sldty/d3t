@@ -1,3 +1,5 @@
+use crate::definition::Definition;
+
 const DEFINITION_DEFINITION: Definition = Definition::Sum {
     variants: vec![
         // Bit
